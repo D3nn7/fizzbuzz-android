@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+    <string name="number_placeholder">NUMBER</string>
+    <string name="divide3">divisible by 3</string>
+    <string name="divide5">divisible by 5</string>
+    <string name="divide3and5">divisible by 3 and 5</string>
+    <string name="plus">+</string>
+</resources>
